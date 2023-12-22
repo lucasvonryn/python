@@ -1,0 +1,24 @@
+{
+  "nome": "Roberto",
+  "sobrenome": "Gabriel Von Ryn",
+  "enderecos": [
+    {
+      "rua": "R1",
+      "numero": 32
+    },
+    {
+      "rua": "R2",
+      "numero": 55
+    }
+  ],
+  "altura": 1.8,
+  "numeros_preferidos": [
+    1,
+    7,
+    10,
+    14,
+    3
+  ],
+  "dev": true,
+  "nada": null
+}
